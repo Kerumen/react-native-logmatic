@@ -1,0 +1,27 @@
+{
+  "name": "react-native-logmatic",
+  "version": "0.1.0",
+  "description": "Send your logs directly to Logmatic with React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerumen/react-native-logmatic"
+  },
+  "author": "Yann Pringault <yann.pringault@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kerumen/react-native-logmatic/issues"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "logmatic",
+    "logs",
+    "android",
+    "ios"
+  ],
+  "homepage": "https://github.com/Kerumen/react-native-logmatic#readme"
+}
