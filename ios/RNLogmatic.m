@@ -29,4 +29,9 @@ RCT_EXPORT_METHOD(log:(NSString *)message context:(NSDictionary *)context)
     [[LMLogger sharedLogger] log:context withMessage:message];
 }
 
+- (dispatch_queue_t)methodQueue
+{
+    return dispatch_get_main_queue();
+}
+
 @end
